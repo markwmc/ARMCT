@@ -1,0 +1,7 @@
+{
+  "name": "ARMCT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
